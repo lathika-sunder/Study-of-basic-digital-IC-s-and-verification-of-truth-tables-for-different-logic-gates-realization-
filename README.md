@@ -76,7 +76,7 @@ xnor (y7,a,b);
 endmodule
 ~~~
 # Logic symbol & Truthtable
-![ani](logic.jpg)
+![Uploading 243079202-1b51d028-45ec-4b25-9139-d9e36260b617.jpg…]()
 
 # RTL realization
 # Output:
