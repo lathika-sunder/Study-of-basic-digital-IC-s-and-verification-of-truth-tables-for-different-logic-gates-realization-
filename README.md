@@ -51,6 +51,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
+
 # Procedure
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
@@ -81,6 +82,9 @@ endmodule
 # Output:
 RTL
 ![ani](rtl.jpg)
+
+# Timing Diagram
+![243079236-8e544475-1f5a-4b77-ac23-58a6b02c4779](https://github.com/lathika-sunder/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/95066409/a021877d-0973-4e26-b346-1e4cd97ec402)
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
